@@ -1,0 +1,14 @@
+layout_spectrum: 0.695671102963388
+typography_spectrum: 0.8179460004903376
+color:
+  brandStrength: 0.5076654371805489
+  lightness: 0.3332467251457274
+  saturation: 0.3972756052389741
+  rhythmicContrast: 0.7358749029226601
+  brandColors:
+    - '#63A69F'
+    - '#F2E1AC'
+    - '#F2836B'
+    - '#F2594B'
+    - '#CD2C24'
+name: peri violet
